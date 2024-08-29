@@ -2,7 +2,7 @@
 Git Fiery Dragon Fire Aircraft
 
 # Author
-Joy , Boy
+BoyJoy
 
 # Introduction
 This is beginning to the introduction
@@ -58,4 +58,8 @@ but continental-scale measurements have not previously been made.
 
 A large uncertainty in modelling BBOA is the extent to which
 measu
+
+# logs
+hakjhkjhakl
+kajkla
 
