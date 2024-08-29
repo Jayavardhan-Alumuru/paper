@@ -1,8 +1,8 @@
 # Title
-Git Fiery Dragon
+Git Fiery Dragon Fire
 
 # Author
-Joy
+Joy , Boy
 
 # Introduction
 This is beginning to the introduction
